@@ -1,3 +1,4 @@
 # Project Synopsis
 
-Write an overview of your project here. Should include quick background about the applied relevance of your work, hypotheses, objectives, experimental design, and a summary of your findings. *No more than 500 words.*
+This experimental study involved testing and analyzing the effects of common microplastic material on Yellow Shore Crabs. Our group referenced prior studies that tested these effects, and our hypothesis postulated that High-Density Polyethylene and Polypropelyne 
+would have an effect.
